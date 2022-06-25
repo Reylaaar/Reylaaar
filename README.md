@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, Im Reylar!
+
+---
+An Android Developer specializing in Android Development. Professional experience with the technologies in the **toolbox** below.
+
+---
+
 
 <!--
 **Reylaaar/Reylaaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
